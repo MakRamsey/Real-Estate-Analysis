@@ -15,22 +15,22 @@ For our first project, we were tasked with identifying a dataset to analyze in o
 
 -images_files (All images related to the regression analysis portion of the project)
 
--Time_Analysis_Project_1 
+-Investment_Analysis_Project_1 
 
 -images_file_2 (All images realated to the time analysis portion of the project)
 
 -Real_Estate_Analysis_Project_1 (PowerPoint presentation which summarized the entire project)
 
--Written_Analysis_Project_1 (Collective written analyis report including final conclusions)
+-Written_Analysis_Project_1 (Collective written analysis report including final conclusions)
 
 
 # Team Members:
 
--Kinjal Sakhida (Time analysis, Written analysis)
+-Kinjal Sakhida 
 
--Kristin Bell (Entire introduction, conclusion, PowerPoint presentation, Written analysis)
+-Kristin Bell 
 
--Makonnen Ramsey (Linear regression analysis, Written analysis)
+-Makonnen Ramsey 
 
 
 This project was a collective effort in which each team member contributed significantly to every aspect of the overall analysis and presentation.
