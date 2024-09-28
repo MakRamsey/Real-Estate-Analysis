@@ -1,3 +1,7 @@
+# Ignore .DS_Store & .ipynb_checkpoints
+**/.DS_Store
+**/.ipynb_checkpoints
+
 # Adding API Code file
 api_codes.py
 
